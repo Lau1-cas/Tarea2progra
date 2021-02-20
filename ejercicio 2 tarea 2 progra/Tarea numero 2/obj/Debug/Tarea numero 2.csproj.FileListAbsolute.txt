@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\bin\Debug\Tarea numero 2.exe.config
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\bin\Debug\Tarea numero 2.exe
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\bin\Debug\Tarea numero 2.pdb
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\obj\Debug\Tarea numero 2.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\obj\Debug\Tarea numero 2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\obj\Debug\Tarea numero 2.exe
+C:\Users\USUARIO\source\repos\Tarea numero 2\Tarea numero 2\obj\Debug\Tarea numero 2.pdb

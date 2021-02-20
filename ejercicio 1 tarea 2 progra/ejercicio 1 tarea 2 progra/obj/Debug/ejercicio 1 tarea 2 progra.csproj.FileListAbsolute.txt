@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\obj\Debug\ejercicio 1 tarea 2 progra.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\obj\Debug\ejercicio 1 tarea 2 progra.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\bin\Debug\ejercicio 1 tarea 2 progra.exe.config
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\bin\Debug\ejercicio 1 tarea 2 progra.exe
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\bin\Debug\ejercicio 1 tarea 2 progra.pdb
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\obj\Debug\ejercicio 1 tarea 2 progra.exe
+C:\Users\USUARIO\source\repos\ejercicio 1 tarea 2 progra\ejercicio 1 tarea 2 progra\obj\Debug\ejercicio 1 tarea 2 progra.pdb

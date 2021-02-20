@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\obj\Debug\ejercicio 5 tarea 2 prograa.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\obj\Debug\ejercicio 5 tarea 2 prograa.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\bin\Debug\ejercicio 5 tarea 2 prograa.exe.config
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\bin\Debug\ejercicio 5 tarea 2 prograa.exe
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\bin\Debug\ejercicio 5 tarea 2 prograa.pdb
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\obj\Debug\ejercicio 5 tarea 2 prograa.exe
+C:\Users\USUARIO\source\repos\ejercicio 5 tarea 2 prograa\ejercicio 5 tarea 2 prograa\obj\Debug\ejercicio 5 tarea 2 prograa.pdb
